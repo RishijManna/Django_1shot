@@ -12,6 +12,7 @@ By the end of Day 1 you will:
 
 > Save this file as Day1-notes.md or copy-paste into your notebook. Do all exercises in a folder called day1-html.
 > 
+<img width="801" height="417" alt="image" src="https://github.com/user-attachments/assets/61a61a6f-aebe-4558-ab5a-79659bcf2031" />
 
 ---
 
